@@ -1,0 +1,11 @@
+I am a young person who is curious about image classification. 
+I have an average knowledge and an average computer.
+I thought the cifar 100 data for image classification was challenging for me.
+It was a data containing 100 classes from 32x32 and 100 images.
+I chose resnet as the model due to the low number of data and gradient vanishing problem.
+I worked with google colab because my computer is not enough (thank you Google)
+Since I used the free version, I could only run Resnet50.
+I tried to stick to the original Resnet article. But I made it myself in changes.
+I have tried many hyper parameters. 
+I found the parameters that gave the best results as soon as possible as fast as I could.
+I'm a young man who likes to push his luck. that is all
