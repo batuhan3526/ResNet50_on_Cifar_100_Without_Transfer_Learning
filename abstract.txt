@@ -10,5 +10,5 @@ I have tried many hyper parameters.
 I found the parameters that gave the best results as soon as possible as fast as I could.
 I'm a young man who likes to push his luck. that is all
 
-Please visit and star it
+Please visit and star it (Global Rank 60 According to Papers With Code)
 https://paperswithcode.com/search?q=ResNet50_on_Cifar_100_Without_Transfer_Learning
